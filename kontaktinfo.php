@@ -13,7 +13,7 @@
           </nav>
 
       <div class="side">
-          <p>meg</p>  
+          <p>Jeg heter Johan :)</p>  
 
 
 

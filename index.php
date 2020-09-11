@@ -13,7 +13,7 @@
           </nav>
 
       <div class="side">
-          <p>home</p>  
+          <p>home YOOOOO</p>  
           <br>
          
 
